@@ -1,5 +1,5 @@
 ## Privacy policy
-SSManage Respect and protect the privacy of all users of the service. In order to provide you with more accurate and personalized services Our App will use and disclose your personal information in accordance with this privacy policy. But app will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, without your prior permission, app will not disclose this information to the public or provide it to third parties.
+Shadow Manage Respect and protect the privacy of all users of the service. In order to provide you with more accurate and personalized services Our App will use and disclose your personal information in accordance with this privacy policy. But app will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, without your prior permission, app will not disclose this information to the public or provide it to third parties.
 App will update this privacy policy from time to time. When you agree to the App Service Usage Agreement, you are deemed to have agreed to the full content of this Privacy Policy.
 This privacy policy is an integral part of app service usage agreement.
 
